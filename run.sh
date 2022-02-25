@@ -1,0 +1,1 @@
+gunicorn App.main:APP --reload
